@@ -10,9 +10,9 @@ Projects I have tried and currently use.
 
 | Project | Category | Rating | Status |
 | --- | --- | --- | --- |
-| 🪟 PowerToys | Windows Tools | ⭐ 8/10 | ✅ Installed |
-| 📸 ShareX | Screenshots & Capture | ⭐ 9/10 | ✅ Installed |
-| 💾 WizTree | Disk Management | ⭐ 7/10 | ✅ Installed |
+| 🪟 [PowerToys](https://github.com/microsoft/PowerToys) | Windows Tools | ⭐ 8/10 | ✅ Installed |
+| 📸 [ShareX](https://github.com/ShareX/ShareX) | Screenshots & Capture | ⭐ 9/10 | ✅ Installed |
+| 💾 [WizTree] | Disk Management | ⭐ 7/10 | ✅ Installed |
 | 🎵 YaMusic Desktop | Music | ⭐ — | ✅ Installed |
 
 ---
@@ -32,8 +32,8 @@ Projects waiting for testing.
 
 Projects that were checked but removed from the list.
 
-- 🖼️ Upscayl
-- 🖼️ Real-ESRGAN
+- 🔍 Upscayl
+- 🔍 Real-ESRGAN
 
 ---
 
@@ -41,13 +41,13 @@ Projects that were checked but removed from the list.
 
 ---
 
-## ⭐ Project Reviews
+# ⭐ Project Reviews
 
-### 🪟 Microsoft PowerToys
+## 🪟 PowerToys
 
 **Rating:** ⭐ 8/10  
 **Status:** ✅ Installed  
-**Category:** Windows Tools
+**Category:** Windows Tools  
 
 Official Microsoft collection of utilities that improve Windows workflow.
 
@@ -70,13 +70,13 @@ A useful Windows toolkit with several great features, but not every module is es
 
 ---
 
-### 📸 ShareX
+## 📸 ShareX
 
 **Rating:** ⭐ 9/10  
 **Status:** ✅ Installed  
-**Category:** Screenshots & Productivity
+**Category:** Screenshots & Productivity  
 
-A powerful open-source tool for screenshots, screen recording and quick image processing.
+An open-source tool for screenshots, screen recording and quick image processing.
 
 ### 👍 Pros
 - Very convenient screenshot workflow
@@ -99,11 +99,11 @@ One of the most useful everyday tools. Makes screenshots much faster and more co
 
 ---
 
-### 💾 WizTree
+## 💾 WizTree
 
 **Rating:** ⭐ 7/10  
 **Status:** ✅ Installed  
-**Category:** Disk Management
+**Category:** Disk Management  
 
 A fast disk space analyzer that helps find what is taking up space on your drives.
 
@@ -123,3 +123,7 @@ A fast disk space analyzer that helps find what is taking up space on your drive
 🟢 Keep
 
 A useful utility to have installed. It is not something you open often, but when you need it, it saves a lot of time.
+
+---
+
+> Welcome to my little corner of the digital world. 👾
