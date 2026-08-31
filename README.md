@@ -12,7 +12,7 @@ Projects I have tried and currently use.
 | --- | --- | --- | --- |
 | 🪟 PowerToys | Windows Tools | ⭐ 8/10 | ✅ Installed |
 | 📸 ShareX | Screenshots & Capture | ⭐ 9/10 | ✅ Installed |
-| 💾 WizTree | Disk Management | ⭐ — | ✅ Installed |
+| 💾 WizTree | Disk Management | ⭐ 7/10 | ✅ Installed |
 | 🎵 YaMusic Desktop | Music | ⭐ — | ✅ Installed |
 
 ---
