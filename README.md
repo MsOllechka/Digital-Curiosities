@@ -92,6 +92,11 @@ A powerful open-source tool for screenshots, screen recording and quick image pr
 - Some features require learning
 - Advanced options may be unnecessary for casual users
 
+### Verdict
+🟢 Keep
+
+One of the most useful everyday tools. Makes screenshots much faster and more convenient.
+
 ---
 
 ### 💾 WizTree
@@ -118,8 +123,3 @@ A fast disk space analyzer that helps find what is taking up space on your drive
 🟢 Keep
 
 A useful utility to have installed. It is not something you open often, but when you need it, it saves a lot of time.
-
-### Verdict
-🟢 Keep
-
-One of the most useful everyday tools. Makes screenshots much faster and more convenient.
