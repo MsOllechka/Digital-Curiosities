@@ -38,3 +38,30 @@ Projects that were checked but removed from the list.
 ---
 
 > Searching for useful tools and interesting digital finds. 👾
+
+---
+
+## ⭐ Project Reviews
+
+### 🪟 Microsoft PowerToys
+
+**Rating:** ⭐ 9.5/10  
+**Status:** ✅ Installed  
+**Category:** Windows Tools
+
+Official Microsoft collection of utilities that improve Windows workflow.
+
+### 👍 Pros
+- Official Microsoft project
+- Active development
+- Many useful tools in one package
+- No ads or unnecessary services
+
+### ⚠️ Cons
+- Some tools may never be used
+- Windows only
+
+### Verdict
+🟢 Keep
+
+A must-have toolkit for improving everyday Windows usage.
