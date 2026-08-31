@@ -92,6 +92,33 @@ A powerful open-source tool for screenshots, screen recording and quick image pr
 - Some features require learning
 - Advanced options may be unnecessary for casual users
 
+---
+
+### 💾 WizTree
+
+**Rating:** ⭐ 7/10  
+**Status:** ✅ Installed  
+**Category:** Disk Management
+
+A fast disk space analyzer that helps find what is taking up space on your drives.
+
+### 👍 Pros
+- Very fast disk scanning
+- Clear visual view of storage usage
+- Easy to find large files and folders
+- Simple and understandable interface
+- Useful when cleaning up disk space
+
+### ⚠️ Cons
+- Not an everyday tool
+- Only needed when storage problems appear
+- Limited to one specific task
+
+### Verdict
+🟢 Keep
+
+A useful utility to have installed. It is not something you open often, but when you need it, it saves a lot of time.
+
 ### Verdict
 🟢 Keep
 
