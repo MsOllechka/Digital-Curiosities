@@ -22,6 +22,7 @@ Projects I have tried and currently use.
 
 Projects waiting for testing.
 
+- 🐝 [VidBee](https://github.com/nexmoe/VidBee)
 - 🎮 GameStringer
 - 🎵 MusicBee
 - 👀 QuickLook
@@ -38,17 +39,13 @@ Projects that were checked but removed from the list.
 
 ---
 
-> Searching for useful tools and interesting digital finds. 👾
-
----
-
 # ⭐ Project Reviews
 
 ## 🪟 PowerToys
 
 **Rating:** ⭐ 8/10  
 **Status:** ✅ Installed  
-**Category:** Windows Tools  
+**Category:** Windows Tools
 
 Official Microsoft collection of utilities that improve Windows workflow.
 
@@ -75,7 +72,7 @@ A useful Windows toolkit with several great features, but not every module is es
 
 **Rating:** ⭐ 9/10  
 **Status:** ✅ Installed  
-**Category:** Screenshots & Productivity  
+**Category:** Screenshots & Productivity
 
 An open-source tool for screenshots, screen recording and quick image processing.
 
@@ -104,7 +101,7 @@ One of the most useful everyday tools. Makes screenshots much faster and more co
 
 **Rating:** ⭐ 7/10  
 **Status:** ✅ Installed  
-**Category:** Disk Management  
+**Category:** Disk Management
 
 A fast disk space analyzer that helps find what is taking up space on your drives.
 
@@ -139,13 +136,13 @@ A desktop client for Yandex Music with additional features, including music down
 - Works with Yandex Music
 - Allows downloading tracks
 - Simple and easy to use
-- Useful for users who actively use Yandex Music
+- Useful for active Yandex Music users
 
 ### ⚠️ Cons
 - Limited functionality outside Yandex Music
 - Not a complete music management solution
 - Requires additional setup
-- Niche use case
+- Has a very specific use case
 
 ### Verdict
 🟡 Useful
@@ -163,25 +160,22 @@ A convenient tool for Yandex Music users, but it does not offer many additional 
 A simple tool for downloading online media.
 
 ### 👍 Pros
-- Works reliably for downloading media
-- Simple and practical
+- Reliable downloads
+- Simple workflow
 - Easy to use
 - Good for quick downloads
-- Solves its main purpose well
+- Does its main job well
 
 ### ⚠️ Cons
-- Focused mainly on downloading
+- Mostly focused only on downloading
 - Limited additional features
 - May have stronger alternatives for advanced workflows
-
-### 🆚 Compared with
-
-Currently one of the useful download tools in my collection.
-
-A future comparison with VidBee may change this rating, as VidBee offers additional features beyond downloading.
 
 ### Verdict
 🟢 Keep
 
 A good downloader that does its job well. Worth keeping until a better all-in-one solution is found.
+
+---
+
 > Welcome to my little corner of the digital world. 👾
