@@ -200,12 +200,12 @@ A good downloader that does its main job well, but after testing VidBee, it feel
 **Status:** ✅ Installed  
 **Category:** Download Tools & Media
 
-An open-source desktop app for downloading video and audio, managing media, working with subtitles and creating local transcripts.
+An open-source desktop app for downloading video, extracting audio from video, managing media, working with subtitles and creating local transcripts.
 
 ### 👍 Pros
 - Downloads from many supported sites
 - Successfully tested with YouTube and VK
-- Can download video and audio separately
+- Can extract audio from a video without downloading the video track
 - Subtitles work
 - Cookie support for authenticated downloads
 - Local transcription with several speech-recognition models
