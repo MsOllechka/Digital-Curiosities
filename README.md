@@ -2,6 +2,19 @@
 
 A personal collection of interesting open-source projects, useful tools and digital discoveries worth keeping.
 
+## 📑 Contents
+
+- [🛠️ Installed & Tested](#-installed--tested)
+- [⏳ To Try](#-to-try)
+- [❌ Not Interested](#-not-interested)
+- [⭐ Project Reviews](#-project-reviews)
+  - [🪟 PowerToys](#-powertoys)
+  - [📸 ShareX](#-sharex)
+  - [💾 WizTree](#-wiztree)
+  - [🎵 YaMusic Desktop](#-yamusic-desktop)
+  - [📥 ytDownloader](#-ytdownloader)
+  - [🐝 VidBee](#-vidbee)
+
 ---
 
 ## 🛠️ Installed & Tested
