@@ -216,7 +216,6 @@ An open-source desktop app for downloading video and audio, managing media, work
 - More functionality than a basic downloader
 
 ### ⚠️ Cons
-- More complicated than a simple downloader
 - Some advanced features require additional setup
 - Cookie configuration may be needed for some sites
 - Specific audio output formats such as MP3 still need further testing
@@ -225,7 +224,7 @@ An open-source desktop app for downloading video and audio, managing media, work
 ### Verdict
 🟢 Keep
 
-A surprisingly feature-rich downloader that goes beyond simply saving videos. It already handles YouTube and VK downloads, subtitles, cookies and local transcription well. For now, 8/10 feels right: it has a lot of potential, but there are still details and advanced features left to test.
+A very capable downloader that goes beyond simply saving videos. It is easy to start using — you can open the app, paste a link and download it without touching the advanced settings. At the same time, it offers useful extra features such as subtitles and local transcription for users who need them. For now, 8/10 feels right: it has already impressed me, but there are still some features left to test.
 
 **🔄 Alternative to:** [ytDownloader](https://github.com/aandrew-me/ytDownloader)
 
