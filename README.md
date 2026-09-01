@@ -13,7 +13,8 @@ Projects I have tried and currently use.
 | 🪟 [PowerToys](https://github.com/microsoft/PowerToys) | Windows Tools | ⭐ 8/10 | ✅ Installed |
 | 📸 [ShareX](https://github.com/ShareX/ShareX) | Screenshots & Capture | ⭐ 9/10 | ✅ Installed |
 | 💾 WizTree | Disk Management | ⭐ 7/10 | ✅ Installed |
-| 🎵 YaMusic Desktop | Music | ⭐ — | ✅ Installed |
+| 🎵 [YaMusic Desktop](https://github.com/cptn73m0/ya-music-desktop) | Music | ⭐ 6/10 | ✅ Installed |
+| 📥 [ytDownloader](https://github.com/aandrew-me/ytDownloader) | Download Tools | ⭐ 8/10 | ✅ Installed |
 
 ---
 
@@ -126,4 +127,61 @@ A useful utility to have installed. It is not something you open often, but when
 
 ---
 
+## 🎵 YaMusic Desktop
+
+**Rating:** ⭐ 6/10  
+**Status:** ✅ Installed  
+**Category:** Music
+
+A desktop client for Yandex Music with additional features, including music downloading.
+
+### 👍 Pros
+- Works with Yandex Music
+- Allows downloading tracks
+- Simple and easy to use
+- Useful for users who actively use Yandex Music
+
+### ⚠️ Cons
+- Limited functionality outside Yandex Music
+- Not a complete music management solution
+- Requires additional setup
+- Niche use case
+
+### Verdict
+🟡 Useful
+
+A convenient tool for Yandex Music users, but it does not offer many additional features beyond its main purpose.
+
+---
+
+## 📥 ytDownloader
+
+**Rating:** ⭐ 8/10  
+**Status:** ✅ Installed  
+**Category:** Download Tools
+
+A simple tool for downloading online media.
+
+### 👍 Pros
+- Works reliably for downloading media
+- Simple and practical
+- Easy to use
+- Good for quick downloads
+- Solves its main purpose well
+
+### ⚠️ Cons
+- Focused mainly on downloading
+- Limited additional features
+- May have stronger alternatives for advanced workflows
+
+### 🆚 Compared with
+
+Currently one of the useful download tools in my collection.
+
+A future comparison with VidBee may change this rating, as VidBee offers additional features beyond downloading.
+
+### Verdict
+🟢 Keep
+
+A good downloader that does its job well. Worth keeping until a better all-in-one solution is found.
 > Welcome to my little corner of the digital world. 👾
