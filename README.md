@@ -6,7 +6,7 @@ A personal collection of interesting open-source projects, useful tools and digi
 
 ## 🛠️ Installed & Tested
 
-Projects I have tried and currently use.
+Projects I have tried and currently keep.
 
 | Project | Category | Rating | Status |
 | --- | --- | --- | --- |
@@ -14,15 +14,15 @@ Projects I have tried and currently use.
 | 📸 [ShareX](https://github.com/ShareX/ShareX) | Screenshots & Capture | ⭐ 9/10 | ✅ Installed |
 | 💾 WizTree | Disk Management | ⭐ 7/10 | ✅ Installed |
 | 🎵 [YaMusic Desktop](https://github.com/cptn73m0/ya-music-desktop) | Music | ⭐ 6/10 | ✅ Installed |
-| 📥 [ytDownloader](https://github.com/aandrew-me/ytDownloader) | Download Tools | ⭐ 8/10 | ✅ Installed |
+| 📥 [ytDownloader](https://github.com/aandrew-me/ytDownloader) | Download Tools | ⭐ 6/10 | ✅ Installed |
+| 🐝 [VidBee](https://github.com/nexmoe/VidBee) | Download Tools & Media | ⭐ 8/10 | ✅ Installed |
 
 ---
 
 ## ⏳ To Try
 
-Projects waiting for testing.
+Projects waiting for testing or further evaluation.
 
-- 🐝 [VidBee](https://github.com/nexmoe/VidBee)
 - 🎮 GameStringer
 - 🎵 MusicBee
 - 👀 QuickLook
@@ -47,7 +47,7 @@ Projects that were checked but removed from the list.
 **Status:** ✅ Installed  
 **Category:** Windows Tools
 
-Official Microsoft collection of utilities that improve Windows workflow.
+An official Microsoft collection of utilities that improves the Windows workflow.
 
 ### 👍 Pros
 - Official Microsoft project
@@ -153,7 +153,7 @@ A convenient tool for Yandex Music users, but it does not offer many additional 
 
 ## 📥 ytDownloader
 
-**Rating:** ⭐ 8/10  
+**Rating:** ⭐ 6/10  
 **Status:** ✅ Installed  
 **Category:** Download Tools
 
@@ -167,14 +167,54 @@ A simple tool for downloading online media.
 - Does its main job well
 
 ### ⚠️ Cons
-- Mostly focused only on downloading
+- Mostly focused on downloading
 - Limited additional features
-- May have stronger alternatives for advanced workflows
+- There are more feature-rich alternatives
+- VidBee currently offers a broader media workflow
+
+### Verdict
+🟡 Useful, but there are better options
+
+A good downloader that does its main job well, but after testing VidBee, it feels less complete. It is still useful when a simple downloader is all that is needed.
+
+**🔄 Alternative:** [VidBee](https://github.com/nexmoe/VidBee)
+
+---
+
+## 🐝 VidBee
+
+**Rating:** ⭐ 8/10  
+**Status:** ✅ Installed  
+**Category:** Download Tools & Media
+
+An open-source desktop app for downloading video and audio, managing media, working with subtitles and creating local transcripts.
+
+### 👍 Pros
+- Downloads from many supported sites
+- Successfully tested with YouTube and VK
+- Can download video and audio separately
+- Subtitles work
+- Cookie support for authenticated downloads
+- Local transcription with several speech-recognition models
+- Whisper Turbo works well on suitable hardware
+- Download queue and media management features
+- RSS support
+- Metadata and subtitle controls
+- More functionality than a basic downloader
+
+### ⚠️ Cons
+- More complicated than a simple downloader
+- Some advanced features require additional setup
+- Cookie configuration may be needed for some sites
+- Specific audio output formats such as MP3 still need further testing
+- The project is actively developing, so some features may change
 
 ### Verdict
 🟢 Keep
 
-A good downloader that does its job well. Worth keeping until a better all-in-one solution is found.
+A surprisingly feature-rich downloader that goes beyond simply saving videos. It already handles YouTube and VK downloads, subtitles, cookies and local transcription well. For now, 8/10 feels right: it has a lot of potential, but there are still details and advanced features left to test.
+
+**🔄 Alternative to:** [ytDownloader](https://github.com/aandrew-me/ytDownloader)
 
 ---
 
