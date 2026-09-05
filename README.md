@@ -14,6 +14,7 @@ A personal collection of interesting open-source projects, useful tools and digi
   - [🎵 YaMusic Desktop](#-yamusic-desktop)
   - [📥 ytDownloader](#-ytdownloader)
   - [🐝 VidBee](#-vidbee)
+  - [🔄 ConvertX](#-convertx)
 
 ---
 
@@ -29,6 +30,7 @@ Projects I have tried and currently keep.
 | 🎵 [YaMusic Desktop](https://github.com/cptn73m0/ya-music-desktop) | Music | ⭐ 6/10 | ✅ Installed |
 | 📥 [ytDownloader](https://github.com/aandrew-me/ytDownloader) | Download Tools | ⭐ 6/10 | ✅ Installed |
 | 🐝 [VidBee](https://github.com/nexmoe/VidBee) | Download Tools & Media | ⭐ 8/10 | ✅ Installed |
+| 🔄 [ConvertX](https://github.com/C4illin/ConvertX) | File Conversion | ⭐ 6/10 | ✅ Installed |
 
 ---
 
@@ -227,6 +229,35 @@ An open-source desktop app for downloading video, extracting audio from video, m
 A very capable downloader that goes beyond simply saving videos. It is easy to start using — you can open the app, paste a link and download it without touching the advanced settings. At the same time, it offers useful extra features such as subtitles and local transcription for users who need them. For now, 8/10 feels right: it has already impressed me, but there are still some features left to test.
 
 **🔄 Alternative to:** [ytDownloader](https://github.com/aandrew-me/ytDownloader)
+
+---
+
+## 🔄 ConvertX
+
+**Rating:** ⭐ 6/10  
+**Status:** ✅ Installed  
+**Category:** File Conversion
+
+A self-hosted file conversion tool that supports a very large number of formats through a single web interface.
+
+### 👍 Pros
+- Simple and understandable conversion process
+- Easy to use once it is set up
+- Supports a huge number of formats
+- Convenient to have available locally
+- Avoids relying on random online conversion websites
+
+### ⚠️ Cons
+- Installation and initial setup are relatively complicated
+- Requires Docker and additional configuration
+- Virtualization may need to be enabled in the BIOS if it is not already configured
+- The setup feels excessive for occasional conversions
+- Not necessarily worth the effort if you only convert a file once in a while
+
+### Verdict
+🟢 Keep
+
+The conversion process itself is convenient and easy to understand, which is a big plus. The main drawback is the setup: for someone who only needs to convert a photo or video occasionally, the installation can feel like more trouble than it is worth. However, once ConvertX is already installed, it is useful to have a local converter ready instead of repeatedly using random online services.
 
 ---
 
