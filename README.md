@@ -5,7 +5,7 @@ A personal collection of interesting open-source projects, useful tools and digi
 ## 📑 Contents
 
 - [🛠️ Installed & Tested](#-installed--tested)
-- [⏳ To Try](#-to-try)
+- [🎲 Fun / Interesting Projects](#-fun--interesting-projects)
 - [❌ Not Interested](#-not-interested)
 - [⭐ Project Reviews](#-project-reviews)
   - [🪟 PowerToys](#-powertoys)
@@ -15,6 +15,7 @@ A personal collection of interesting open-source projects, useful tools and digi
   - [📥 ytDownloader](#-ytdownloader)
   - [🐝 VidBee](#-vidbee)
   - [🔄 ConvertX](#-convertx)
+  - [🖼️ SmartImage](#-smartimage)
 
 ---
 
@@ -34,14 +35,11 @@ Projects I have tried and currently keep.
 
 ---
 
-## ⏳ To Try
+## 🎲 Fun / Interesting Projects
 
-Projects waiting for testing or further evaluation.
+Interesting tools that are useful to try occasionally, but are not worth keeping installed permanently.
 
-- 🎮 GameStringer
-- 🎵 MusicBee
-- 👀 QuickLook
-- 🚀 Flow Launcher
+- 🖼️ [SmartImage](https://github.com/) — Reverse image search across multiple search engines | ⭐ 6/10
 
 ---
 
@@ -238,26 +236,54 @@ A very capable downloader that goes beyond simply saving videos. It is easy to s
 **Status:** ✅ Installed  
 **Category:** File Conversion
 
-A self-hosted file conversion tool that supports a very large number of formats through a single web interface.
+A self-hosted file converter that supports a very large number of formats and different types of files.
 
 ### 👍 Pros
 - Simple and understandable conversion process
-- Easy to use once it is set up
-- Supports a huge number of formats
-- Convenient to have available locally
-- Avoids relying on random online conversion websites
+- Easy to use once everything is set up
+- Supports many different formats
+- Useful to have locally available
+- Avoids having to use random online conversion services
 
 ### ⚠️ Cons
 - Installation and initial setup are relatively complicated
 - Requires Docker and additional configuration
-- Virtualization may need to be enabled in the BIOS if it is not already configured
-- The setup feels excessive for occasional conversions
-- Not necessarily worth the effort if you only convert a file once in a while
+- Virtualization may need to be enabled in BIOS
+- Too much setup for someone who only converts files occasionally
+- The installation effort may not be worth it for one-off conversions
 
 ### Verdict
 🟢 Keep
 
-The conversion process itself is convenient and easy to understand, which is a big plus. The main drawback is the setup: for someone who only needs to convert a photo or video occasionally, the installation can feel like more trouble than it is worth. However, once ConvertX is already installed, it is useful to have a local converter ready instead of repeatedly using random online services.
+The conversion process itself is convenient and easy to understand, which is a big plus. The main downside is the installation: if you only need to convert a photo or video from time to time, the setup can feel like more trouble than the task itself. However, once ConvertX is installed, it is useful to have a local converter ready instead of repeatedly looking for random online services.
+
+---
+
+## 🖼️ SmartImage
+
+**Rating:** ⭐ 6/10  
+**Status:** 🧪 Tested  
+**Category:** 🎲 Fun / Interesting Projects
+
+A reverse image search tool that checks images across multiple search engines from one place.
+
+### 👍 Pros
+- 🔎 Searches images through multiple reverse image search engines
+- 🎨 Supports SauceNAO, IQDB, Ascii2D, trace.moe, and more
+- 📋 Can search images directly from the clipboard
+- 🖱️ Supports drag & drop and Windows context menu integration
+- ⚡ More convenient than opening several reverse image search services manually
+
+### ⚠️ Cons
+- 🔍 More often finds similar images rather than the exact copy or original source
+- ❌ Not every image can be found, especially if it has not been indexed by the supported search engines
+- ❌ The results depend heavily on the particular image and the search engine being used
+- ❌ Not useful enough for me to keep installed permanently
+
+### Verdict
+🟡 Occasional Use
+
+A handy and interesting reverse image search tool, especially for quickly checking an image across multiple search engines. However, it is far from being able to find the exact source of every image, so for me it works better as an occasional tool than something worth keeping installed.
 
 ---
 
