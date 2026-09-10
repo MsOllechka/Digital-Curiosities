@@ -21,7 +21,7 @@ A personal collection of interesting open-source projects, useful tools and digi
 
 ## 🛠️ Installed & Tested
 
-Projects I have tried and currently keep.
+Projects I have tested and decided to keep installed.
 
 | Project | Category | Rating | Status |
 | --- | --- | --- | --- |
@@ -37,9 +37,9 @@ Projects I have tried and currently keep.
 
 ## 🎲 Fun / Interesting Projects
 
-Interesting tools that are useful to try occasionally, but are not worth keeping installed permanently.
+Projects I have tested and found interesting, but do not consider worth keeping installed permanently.
 
-- 🖼️ [SmartImage](https://github.com/) — Reverse image search across multiple search engines | ⭐ 6/10
+- 🖼️ [SmartImage](https://github.com/Decimation/SmartImage) — Reverse image search across multiple search engines | ⭐ 6/10
 
 ---
 
