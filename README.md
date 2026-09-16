@@ -7,16 +7,20 @@ A personal collection of interesting open-source projects, useful tools and digi
 - [🟢 Kept Projects](#-kept-projects)
 - [🎲 Fun / Interesting Projects](#-fun--interesting-projects)
 - [❌ Not for Me](#-not-for-me)
-- [⭐ Project Reviews](#-project-reviews)
-  - [🪟 PowerToys](#-powertoys)
-  - [📸 ShareX](#-sharex)
-  - [💾 WizTree](#-wiztree)
-  - [🎵 YaMusic Desktop](#-yamusic-desktop)
-  - [📥 ytDownloader](#-ytdownloader)
-  - [🐝 VidBee](#-vidbee)
-  - [🔄 ConvertX](#-convertx)
-  - [🖼️ SmartImage](#-smartimage)
-  - [🔍 Upscayl](#-upscayl)
+<details>
+<summary>⭐ Project Reviews</summary>
+
+- [🪟 PowerToys](#powertoys)
+- [📸 ShareX](#sharex)
+- [💾 WizTree](#wiztree)
+- [🎵 YaMusic Desktop](#yamusic-desktop)
+- [📥 ytDownloader](#ytdownloader)
+- [🐝 VidBee](#vidbee)
+- [🔄 ConvertX](#convertx)
+- [🖼️ SmartImage](#smartimage)
+- [🔍 Upscayl](#upscayl)
+
+</details>
 
 ---
 
@@ -58,6 +62,7 @@ Projects I have tested but decided not to keep.
 
 # ⭐ Project Reviews
 
+<a id="powertoys"></a>
 ## 🪟 PowerToys
 
 **Rating:** ⭐ 8/10  
@@ -85,6 +90,7 @@ A useful Windows toolkit with several great features, but not every module is es
 
 ---
 
+<a id="sharex"></a>
 ## 📸 ShareX
 
 **Rating:** ⭐ 9/10  
@@ -114,6 +120,7 @@ One of the most useful everyday tools. Makes screenshots much faster and more co
 
 ---
 
+<a id="wiztree"></a>
 ## 💾 WizTree
 
 **Rating:** ⭐ 7/10  
@@ -141,6 +148,7 @@ A useful utility to have installed. It is not something you open often, but when
 
 ---
 
+<a id="yamusic-desktop"></a>
 ## 🎵 YaMusic Desktop
 
 **Rating:** ⭐ 6/10  
@@ -168,6 +176,7 @@ A convenient tool for Yandex Music users, but it does not offer many additional 
 
 ---
 
+<a id="ytdownloader"></a>
 ## 📥 ytDownloader
 
 **Rating:** ⭐ 6/10  
@@ -198,6 +207,7 @@ A good downloader that does its main job well, but VidBee turned out to be a bet
 
 ---
 
+<a id="vidbee"></a>
 ## 🐝 VidBee
 
 **Rating:** ⭐ 8/10  
@@ -234,6 +244,7 @@ A very capable downloader that goes beyond simply saving videos. It is easy to s
 
 ---
 
+<a id="convertx"></a>
 ## 🔄 ConvertX
 
 **Rating:** ⭐ 6/10  
@@ -263,6 +274,7 @@ The conversion process itself is convenient and easy to understand, which is a b
 
 ---
 
+<a id="smartimage"></a>
 ## 🖼️ SmartImage
 
 **Rating:** ⭐ 6/10  
@@ -291,6 +303,7 @@ A handy and interesting reverse image search tool, especially for quickly checki
 
 ---
 
+<a id="upscayl"></a>
 ## 🔍 Upscayl
 
 **Rating:** ⭐ 5/10  
