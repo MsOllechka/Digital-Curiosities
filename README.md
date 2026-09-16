@@ -4,9 +4,9 @@ A personal collection of interesting open-source projects, useful tools and digi
 
 ## 📑 Contents
 
-- [🛠️ Installed & Tested](#-installed--tested)
+- [🟢 Kept Projects](#-kept-projects)
 - [🎲 Fun / Interesting Projects](#-fun--interesting-projects)
-- [❌ Not Interested](#-not-interested)
+- [❌ Not for Me](#-not-for-me)
 - [⭐ Project Reviews](#-project-reviews)
   - [🪟 PowerToys](#-powertoys)
   - [📸 ShareX](#-sharex)
@@ -16,12 +16,13 @@ A personal collection of interesting open-source projects, useful tools and digi
   - [🐝 VidBee](#-vidbee)
   - [🔄 ConvertX](#-convertx)
   - [🖼️ SmartImage](#-smartimage)
+  - [🔍 Upscayl](#-upscayl)
 
 ---
 
-## 🛠️ Installed & Tested
+## 🟢 Kept Projects
 
-Projects I have tested and decided to keep installed.
+Projects I have tested and decided to keep.
 
 | Project | Category | Rating | Status |
 | --- | --- | --- | --- |
@@ -29,7 +30,6 @@ Projects I have tested and decided to keep installed.
 | 📸 [ShareX](https://github.com/ShareX/ShareX) | Screenshots & Capture | ⭐ 9/10 | ✅ Installed |
 | 💾 WizTree | Disk Management | ⭐ 7/10 | ✅ Installed |
 | 🎵 [YaMusic Desktop](https://github.com/cptn73m0/ya-music-desktop) | Music | ⭐ 6/10 | ✅ Installed |
-| 📥 [ytDownloader](https://github.com/aandrew-me/ytDownloader) | Download Tools | ⭐ 6/10 | ✅ Installed |
 | 🐝 [VidBee](https://github.com/nexmoe/VidBee) | Download Tools & Media | ⭐ 8/10 | ✅ Installed |
 | 🔄 [ConvertX](https://github.com/C4illin/ConvertX) | File Conversion | ⭐ 6/10 | ✅ Installed |
 
@@ -39,16 +39,20 @@ Projects I have tested and decided to keep installed.
 
 Projects I have tested and found interesting, but do not consider worth keeping installed permanently.
 
-- 🖼️ [SmartImage](https://github.com/Decimation/SmartImage) — Reverse image search across multiple search engines | ⭐ 6/10
+| Project | Category | Rating | Status |
+| --- | --- | --- | --- |
+| 🖼️ [SmartImage](https://github.com/Decimation/SmartImage) | Image Search | ⭐ 6/10 | 🧪 Tested |
 
 ---
 
-## ❌ Not Interested
+## ❌ Not for Me
 
-Projects that were checked but removed from the list.
+Projects I have tested but decided not to keep.
 
-- 🔍 Upscayl
-- 🔍 Real-ESRGAN
+| Project | Category | Rating | Status |
+| --- | --- | --- | --- |
+| 📥 [ytDownloader](https://github.com/aandrew-me/ytDownloader) | Download Tools | ⭐ 6/10 | 🔄 Replaced |
+| 🔍 [Upscayl](https://github.com/upscayl/upscayl) | Image Upscaling | ⭐ 5/10 | 🧪 Tested |
 
 ---
 
@@ -167,7 +171,7 @@ A convenient tool for Yandex Music users, but it does not offer many additional 
 ## 📥 ytDownloader
 
 **Rating:** ⭐ 6/10  
-**Status:** ✅ Installed  
+**Status:** 🔄 Replaced  
 **Category:** Download Tools
 
 A simple tool for downloading online media.
@@ -186,11 +190,11 @@ A simple tool for downloading online media.
 - VidBee currently offers a broader media workflow
 
 ### Verdict
-🟡 Useful, but there are better options
+🔴 Replaced
 
-A good downloader that does its main job well, but after testing VidBee, it feels less complete. It is still useful when a simple downloader is all that is needed.
+A good downloader that does its main job well, but VidBee turned out to be a better fit for me because it offers a broader set of features. I no longer keep ytDownloader installed.
 
-**🔄 Alternative:** [VidBee](https://github.com/nexmoe/VidBee)
+**🔄 Replaced by:** [VidBee](https://github.com/nexmoe/VidBee)
 
 ---
 
@@ -263,7 +267,7 @@ The conversion process itself is convenient and easy to understand, which is a b
 
 **Rating:** ⭐ 6/10  
 **Status:** 🧪 Tested  
-**Category:** 🎲 Fun / Interesting Projects
+**Category:** Image Search
 
 A reverse image search tool that checks images across multiple search engines from one place.
 
@@ -284,6 +288,32 @@ A reverse image search tool that checks images across multiple search engines fr
 🟡 Occasional Use
 
 A handy and interesting reverse image search tool, especially for quickly checking an image across multiple search engines. However, it is far from being able to find the exact source of every image, so for me it works better as an occasional tool than something worth keeping installed.
+
+---
+
+## 🔍 Upscayl
+
+**Rating:** ⭐ 5/10  
+**Status:** 🧪 Tested  
+**Category:** Image Upscaling
+
+An AI image upscaling tool designed to increase image resolution and improve low-quality images.
+
+### 👍 Pros
+- Simple and understandable interface
+- Easy to use
+- Does not require complicated setup for basic upscaling
+
+### ⚠️ Cons
+- The improvement in image quality was not convincing
+- Did not turn a low-quality image into a noticeably good-quality result
+- Faces could become distorted and look unnatural after upscaling
+- The final result did not justify keeping a separate program installed
+
+### Verdict
+🔴 Not for Me
+
+Upscayl is simple and easy to use, but the actual result did not impress me. The main reason to use an upscaler is to make a poor-quality image look noticeably better, and in my tests the improvement was not good enough. Images with faces were especially disappointing, as facial features could become distorted and unnatural. For me, the result simply was not worth keeping the program installed.
 
 ---
 
